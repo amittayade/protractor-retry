@@ -88,5 +88,5 @@ Those 3 examples are actually used for the functional tests coverage of this pac
 ### Known Caveat
 * If you are NOT Running in Parallel mode, the package will retry the whole testsuite if any failure.
 * **Windows** as an environment to launch & use this package is unfortunately not yet supported. 
-* **WINDOWS SUPPORT UPDATE** Supported from version 2.0.1
+* **WINDOWS SUPPORT UPDATE** Supported from version 2.0.1 ***
 
